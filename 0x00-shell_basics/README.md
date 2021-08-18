@@ -1,0 +1,1 @@
+##0-current_working_directory contains bash script for printing the absoute paths of current working directory
