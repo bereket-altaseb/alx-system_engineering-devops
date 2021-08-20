@@ -1,0 +1,1 @@
+contain bash project for permission shell scripting
